@@ -1,0 +1,1 @@
+AGG Chain is a super scalable, compatible L0 blockchain based on Tendermint. Focused on true interoperability (IBC) and maximized performance. With high scalability, developers can build and scale with low gas costs.
