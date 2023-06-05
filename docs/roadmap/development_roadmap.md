@@ -10,7 +10,7 @@
 
 ## v0.2.x
 
-- 将 v0.1.x 功能迁移到 Cosmos Hub，并成为 Cosmos 生态中的EVM区块链(AGG-EVM)，研究Cosmos Hub原理
+- 将 v0.1.x 功能迁移到 Cosmos Hub，并成为 Cosmos 生态中的EVM区块链(Cosmos-AGGEVM)，研究Cosmos Hub原理
 
 ## v0.3.x
 
