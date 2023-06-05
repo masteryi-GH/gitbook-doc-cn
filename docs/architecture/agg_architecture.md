@@ -4,4 +4,4 @@ AGG Chain consists of the following parts:
 - Base RPC: Tendermint RPC
 - Wrapper RPC: responsible for providing RPC interface to the application layer that is compatible with existing products
 
-![](../images/image-20230603094823073.png)
+![](../../images/image-20230603094823073.png)
