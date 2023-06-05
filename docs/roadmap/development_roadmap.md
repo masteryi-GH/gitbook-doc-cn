@@ -1,4 +1,4 @@
-# v0 (实验版本): 
+# v0(实验版本)
 
 探索 Tendermint x 公有链/联合区块链
 
@@ -28,7 +28,7 @@
 
 - AGG Hub 接入 AGG-Fabric
 
-# v1
+# v1(发行版本)
 
 - 发布线上版本AGG Chain
 - 发行AGG代币，调研并解决 Cosmos Hub 应用生态问题
