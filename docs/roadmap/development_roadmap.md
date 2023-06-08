@@ -25,7 +25,7 @@
 
 - AGG Hub 接入 AGG-Bitcoin
 
-## v0.5.x
+## v0.5d.x
 
 - AGG Hub 接入 AGG-Fabric
 

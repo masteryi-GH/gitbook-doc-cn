@@ -2,7 +2,7 @@
   * [区块链层级架构](docs/prerequisites/blockchain_architecture.md)
   * [Tendermint ABCI](docs/prerequisites/tendermint_abci.md)
   * Cosmos
-    * [Cosmos Hub]()
+    * [Cosmos Hub](docs/prerequisites/cosmos_hub.md)
     * [Cosmos Hub生态区块链概述]()
   * Ethereum
     * [Ethereum存储层]()
