@@ -14,7 +14,7 @@ Tendermint已经被用于构建许多区块链平台和应用程序，例如 Cos
 
 # 2. Tendermint ABCI
 
-<img src="../../images/tendermint.png" style="zoom: 67%;" />
+![](../../images/tendermint.png)
 
 一般在开始使用tendermint之前， 作为开发者应该最关心的就是abci接口了， 因为这个是和tendermint进行交互的关键。 个人觉得这个也是tendermint的优势之一。 有了这个接口定义才有了实现通用区块链平台的可能。
 
