@@ -1,6 +1,6 @@
 区块链层级：
 
-<img src="../../images/25e524867a2a4e2bb5d405da84600024.png" style="zoom:67%;" />
+<img src="../../images/25e524867a2a4e2bb5d405da84600024.png" style="zoom:80%;" />
 
 1. 应用层
 
