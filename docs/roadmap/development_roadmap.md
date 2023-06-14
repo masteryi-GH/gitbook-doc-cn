@@ -1,6 +1,6 @@
 # v0(实验版本)
 
-探索 Tendermint x 公有链/联合区块链
+探索 Tendermint x 公有链/联盟区块链
 
 
 ## ✅ v0.0.x
