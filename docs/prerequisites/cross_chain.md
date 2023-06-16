@@ -17,4 +17,4 @@ IBC Packet跨链消息的生命周期，在传输期间，数据包会经历下�
 - 源链上确认数据包
 - 源链上的数据包超时
 
-![](../../images/v2-d637531c9631ab83ae3d34c2189163b1_1440w.png)
+![](../../images/cosmos_crosschain.png)
